@@ -1,0 +1,50 @@
+nav {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    text-decoration: none;
+}
+nav span{
+    cursor: pointer;
+    margin-left: 40px;
+    font-size: .85rem;
+    text-transform: uppercase;
+}
+nav span:hover{
+    border-bottom: 2px solid #00b6ee;
+    padding-bottom: 5px;
+}
+nav span:active{
+    color: #2050ff;
+}
+span #HomeLight:hover, #MoviesLight:hover, #TrendingLight:hover, #PricingLight:hover{
+    border-bottom: 2px solid #202fff;
+}
+.nav-options{
+    display: flex;
+    align-items: center;
+}
+#heading{
+    color: #ff20a9;
+}
+#navigationBarColor span:hover{
+    border-bottom: 2px solid #2049ff;
+    padding-bottom: 5px;
+}
+.input-group input{
+    position: relative;
+    width: 323px;
+    height: 4vh;
+    margin-right: 30px;
+}
+.input-group input[type='text']{
+    padding-left: 17px;
+    font-size: 1rem;
+    color: rgb(34, 34, 83);
+}
+.input-group input::placeholder{
+    border: rgb(5, 2, 73);
+}
