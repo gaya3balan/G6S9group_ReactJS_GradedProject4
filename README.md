@@ -15,8 +15,10 @@ cd G6S9group_ReactJS_GradedProject4-master\React-Graded-Project\client\movies-on
 cd G6S9group_ReactJS_GradedProject4-master\React-Graded-Project\server                  
 --> npm install json-server
 
-node_modules should now be created in both client\movies-on-the-tip and server 
+node_modules should now be created in both client\movies-on-the-tip and server
+
 4. Do npm start for terminal associated with server
+
 5. Do npm start for terminal associated with client 
 
 This should work as I verified after uploading to git. Please check video as well- we performed these steps from scratch.
