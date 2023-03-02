@@ -4,7 +4,7 @@ Did not upload node_modules for client and server due to size. Please follow bel
 
 Instructions for Running React Graded Project
 
-1. Go to github : https://github.com/gaya3balan/G6S9_ReactJS_GradedProject4 and Download zip
+1. Go to github : https://github.com/gaya3balan/G6S9group_ReactJS_GradedProject4 and Download zip
 2. Open project in VS CODE and open a terminal for client->
 
 cd G6S9group_ReactJS_GradedProject4-master\React-Graded-Project\client\movies-on-the-tip
